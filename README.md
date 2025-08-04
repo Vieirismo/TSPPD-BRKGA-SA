@@ -1,4 +1,4 @@
-# Artificial Intelligence Topics Project (Colégio Técnico de Campinas - COTUCA): Traveling Salesperson Problem with Pick-up and Delivery (TSPPD)
+# Artificial Intelligence Topics Project (Colégio Técnico de Campinas - COTUCA): Traveling Salesman Problem with Pick-up and Delivery (TSPPD)
 
 This project was developed during the Artificial Intelligence Topics classes at the Campinas Technical College - COTUCA, taught by professor Guilherme de Oliveira Macedo. Its objective is to explore the application of two metaheuristics, **Simulated Annealing (SA)** and **Biased Random-Key Genetic Algorithm (BRKGA)**, to solve the Traveling Salesperson Problem with Pick-up and Delivery (TSPPD). The goal is to determine the most efficient route, ensuring that each item is collected before its respective delivery and that each location is visited only once.
 
