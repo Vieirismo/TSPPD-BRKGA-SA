@@ -46,7 +46,7 @@ To run the project, follow the instructions below.
 
 ### Prerequisites
 
-To run this project, you need to have **Python 3.12 (or later versions)** installed.
+To run this project, you need to have **Python 3.12 (or higher version)** installed.
 
 * You can download Python 3.12 directly from the [Python Software Foundation official website](https://www.python.org/downloads/).
 * If you are using Windows, be sure to check the **"Add Python to PATH"** option during installation to make it easier to use commands in the terminal.
